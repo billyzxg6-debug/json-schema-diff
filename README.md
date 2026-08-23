@@ -1,2 +1,3 @@
-# json-schema-diff
-Structural comparison tool for JSON schemas to detect breaking changes.
+# JSON Schema Diff
+
+Detect backward-compatibility regressions and breaking modifications in API schemas.
